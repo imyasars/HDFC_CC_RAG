@@ -133,6 +133,16 @@ graph TD
 
 ---
 
+## 🎥 Demo Video
+
+This demo showcases the complete RAG pipeline in action:
+- Hybrid Retrieval (BM25 + FAISS)
+- Cohere Reranking
+- Grounded LLM Responses (Gemini 2.5 Flash)
+- RAGAS Evaluation (Faithfulness & Relevancy)
+
+👉 [Watch Full Demo](https://drive.google.com/file/d/1dXAz7_bpKceITkbUwANKA6_AxZ_K1n26/preview)
+
 ## Technical Evaluations (The "12 vs 8" Case)
 
 The system is validated using high-precision queries. For example, comparing Regalia Gold and Millennia lounge access:
